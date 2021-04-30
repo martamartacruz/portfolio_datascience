@@ -10,10 +10,9 @@
 
 My credentials include a Graduation in Applied Mathematics from the São Paulo State University (UNESP), and a Graduation in Data Scientist from the Virtual University os the State of São Paulo (UNIVESP).
 
-**Background in:** Python, Machine Learning and Mathematical.
+**Background in:** Python, Machine Learning and Mathematics.
 
 **Links:**
-* [Blog]
 * [LinkedIn](https://www.linkedin.com/in/martamartacruz/)
 * [Instagram](https://www.instagram.com/martamartacruz/)
 
