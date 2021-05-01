@@ -3,7 +3,7 @@ Meu portfólio de projetos Data Science.
 
 [![author](https://img.shields.io/badge/author-MartaCruz-red.svg)](https://www.linkedin.com/in/martamartacruz) 
 <p align="center">
- <img src=".png" >
+ <img src="data science.png" >
 </p>
 
 # Marta Cruz
